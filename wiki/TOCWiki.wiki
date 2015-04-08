@@ -1,5 +1,5 @@
   * [JNAeratorFAQ FAQ]
-  * [https://github.com/ochafik/nativelibs4java/blob/master/libraries/jnaerator/CHANGELOG CHANGELOG]
+  * [https://github.com/nativelibs4java/JNAerator/blob/master/CHANGELOG.md CHANGELOG]
   * [Downloads]
   * Project
     * [AboutJNAerator]
