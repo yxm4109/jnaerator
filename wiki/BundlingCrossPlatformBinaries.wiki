@@ -1,4 +1,6 @@
 #summary How to bundle binaries for different platforms in a single JNAerator output
+#sidebar TOCWiki
+<wiki:toc max_depth="3" />
 
 THIS SECTION IS TODO
 
