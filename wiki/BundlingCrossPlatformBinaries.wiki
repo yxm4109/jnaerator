@@ -5,3 +5,5 @@
 THIS SECTION IS TODO
 
 This [http://stackoverflow.com/questions/29530261/how-to-use-jnaerator-with-multiple-dynamic-libraries-under-one-header Stack Overflow question] explains how to use the `-arch` [CommandLineOptionsAndEnvironmentVariables command-line flag] multiple times in order to [https://code.google.com/p/bridj/wiki/LibrariesLookup bundle binaries in the format expected by BridJ].
+
+TODO also explain what the JNAerator runtime (which is JNA + some JNAerator-specific classes such as `LibraryExtractor`) can do.
