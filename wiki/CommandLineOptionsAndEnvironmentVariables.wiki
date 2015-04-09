@@ -89,7 +89,7 @@ Please read [JNAeratorFiles] for more details about these files, and [JNAeratorF
  * *-defaultLibrary* libName
   Name of output library for elements declared in files not covered by a ${CurrentLibrary} switch
   _libName_: String
- * *-dependencies* methodName
+ * *-dependencies* lib1,lib2
   Comma-separated list of dependencies for the current library (BridJ only).
   _methodName_: CommaList
  * *-direct*
