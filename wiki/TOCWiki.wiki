@@ -13,8 +13,9 @@
     * [CommandLineOptionsAndEnvironmentVariables]
     * [CToJavaTransformation]
     * [ObjectiveC]
-    * [EmbeddingJNAerator]
+    * [BundlingCrossPlatformBinaries]
     * [Reification]
+    * [EmbeddingJNAerator]
   * Hands-on
     * [TroubleShootingJNAeration]
     * [Maven]
